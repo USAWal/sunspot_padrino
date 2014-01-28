@@ -66,3 +66,5 @@ Module Sunspot
     end
   end
 end
+
+require "sunspot_padrino/railtie"
